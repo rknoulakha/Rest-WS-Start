@@ -1,0 +1,16 @@
+/****************** Read Me ***********************/
+
+Create RestFul Web services using jersey.
+Basic Application.
+
+Note : Port can change according to your server configuration.
+
+1. http://localhost:8081/Rest_WS_Start/UserServices/color
+
+return text plain as a output
+
+2. http://localhost:8081/Rest_WS_Start/UserServices/user
+
+return xml
+
+/**************************************************/
